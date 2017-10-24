@@ -1,0 +1,11 @@
+Prerequisites::
+
+Programming:
+  XML <- prereq html
+  java (CORE JAVA)
+  
+Software/compilers/packages:
+  jtk (windows), OpenJTK(linux) 
+  SDK (Software Development Kit)
+  Android Studio (for java)
+  
