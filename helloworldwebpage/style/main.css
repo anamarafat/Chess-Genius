@@ -4,7 +4,7 @@ body {
 }
 
 h1, h2, li {
-	color:red;
+	color:#000;
 }
 
 a {
@@ -16,4 +16,16 @@ p{
 	color: white;
 	padding: 10px;
 
+}
+
+#tertiary{
+	background: #555;
+	color:red;
+	padding: 10px 20px 10px 20px;
+}
+
+.secondary{
+	background: #555;
+	color:yellow;
+	padding: 10px 20px 10px 20px;
 }
