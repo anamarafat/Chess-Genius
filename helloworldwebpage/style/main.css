@@ -1,2 +1,19 @@
 body {
-	background:#999:
+	background:#999;
+	font-family: arial;
+}
+
+h1, h2, li {
+	color:red;
+}
+
+a {
+	color:blue;
+}
+
+p{
+	background: #555;
+	color: white;
+	padding: 10px;
+
+}
